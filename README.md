@@ -37,6 +37,9 @@ Predictions made by the model can help policymakers, researchers, and environmen
 - Forecast plots showing future emission trends
 - Correlation heatmaps of variables
 
+## Link to the Model:
+ https://drive.google.com/file/d/1R08mOGPySz174lsbmb5J5W52HTeegP_L/view?usp=sharing
+
 ## 📈 How It Works
 
 - **Data Loading & Cleaning**: Import historical CO₂ emission data from CSV files.
